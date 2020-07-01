@@ -1,7 +1,20 @@
+<p align="center"><img src="https://keras.io/img/logo.png" height=150px></p>
+
 # deepLearning_hompimpa
-DNN basic using keras library with TensorFlow backend to determine picture of hand paper, rock, scissors
+Simple DNN using keras library with TensorFlow backend to determine picture of hand paper, rock, scissors
 
-### Hompimpa
-Hompimpa is rock-scissors-paper game name in Indonesia
+## Usage
 
-This model could predict the picture of hand, either it resembeles a paper, rock, or scissors using Keras library 
+Use the [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://colab.research.google.com/) to run [Notebook](https://github.com/AndyAlyf/deepLearning_hompimpa/blob/master/DeepLearning_hompimpa.ipynb).
+
+
+## Contributor
+- [Andi Alifsyah Dyasham](https://github.com/andyalyf)
+  - [Twitter](http://twitter.com/andyalyfsyah)
+  - [Medium](http://medium.com/@andyalyfsyah4)
+  - [StackOverflow](https://stackoverflow.com/users/13289800/andi-alifsyach)
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
